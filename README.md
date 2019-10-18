@@ -1,3 +1,3 @@
 # Branch
 grammar
-u r an a idiot 
+u r a idiot 
